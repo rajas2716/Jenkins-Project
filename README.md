@@ -1,4 +1,4 @@
-# static
+# Jenkins Project
 Udacity-Jenkins-Pipeline-Project
 
 ## In this, I have deployed a Jenkins pipeline(code inside JenkindFile) which uploads file index.html.
