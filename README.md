@@ -1,12 +1,13 @@
-# Jenkins Project
+# JENKINS-PROJECT
 Udacity-Jenkins-Pipeline-Project
 
-## In this, I have deployed a Jenkins pipeline(code inside JenkindFile) which uploads file index.html.
+## ABOUT
+In this project , I have deployed a Jenkins pipeline(code inside JenkindFile) which uploads the file "index.html" to my amazon S3 bucket after passing it through a linter.
 
 ## SPECIFICATIONS
  
- A linter is used to check index.html file before uploading
- Then the file is uploaded to my S3 bucket
+Linter: Checks index.html file for ERRORS
+s3Upload : Uploads file to S3 bucket
 
 
 
