@@ -7,6 +7,7 @@ In this project , I have deployed a Jenkins pipeline(code inside JenkindFile) wh
 ## SPECIFICATIONS
  
 Linter: Checks index.html file for ERRORS
+
 s3Upload : Uploads file to S3 bucket
 
 
